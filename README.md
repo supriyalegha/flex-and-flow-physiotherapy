@@ -42,7 +42,19 @@ DataBase: MySQL
 ![Screenshot 2024-07-24 232957](https://github.com/user-attachments/assets/b39d33f5-e5cf-4b5e-85dd-177f74e65e9f)
 
 
+![Screenshot 2024-07-25 004620](https://github.com/user-attachments/assets/5eb35bfc-a2f0-48c3-a031-61a8c43e3bbe)
+
+
+![Screenshot 2024-07-25 004640](https://github.com/user-attachments/assets/ef69a572-e46f-401e-828b-b03e3af9a64e)
+
+
+![Screenshot 2024-07-25 004702](https://github.com/user-attachments/assets/a9ffe00b-7159-4bc4-ae9c-ce57e3b183db)
+
+
 ![Screenshot 2024-07-24 233047](https://github.com/user-attachments/assets/e7bd3c26-296b-4ce2-bf9b-aa5b5ce4e91b)
+
+
+![Screenshot 2024-07-25 004723](https://github.com/user-attachments/assets/919de658-de54-4100-b3a1-ed4eec7406ec)
 
 
 
