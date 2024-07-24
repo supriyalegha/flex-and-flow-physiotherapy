@@ -13,13 +13,13 @@ The system manages patient records and appointment schedules. This project aims 
 
 ## Features :
 
-User-friendly interface for booking appointments
+1. User-friendly interface for booking appointments
 
-Management of patient records and appointment history
+2. Management of patient records and appointment history
 
-Responsive Design
+3. Responsive Design
 
-Client Testimonial and Success stories
+4. Client Testimonial and Success stories
 
 ## Technologies Used :
 
